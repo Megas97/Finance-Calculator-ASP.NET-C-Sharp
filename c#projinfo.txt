@@ -1,0 +1,22 @@
+Getting Started (Bootstrap): https://www.youtube.com/watch?v=WrgPLAvJujE&list=LLaOuv3fzgBNySFWydzhi1Ew&index=6
+Check Net.Core Version: https://www.ntweekly.com/2018/03/04/check-net-core-version-installed/
+Example ASP.NET Apps:
+https://stackoverflow.com/questions/7406961/how-to-call-a-variable-in-code-behind-to-aspx-page
+https://stackoverflow.com/questions/9458494/access-c-sharp-variable-from-javascript
+https://stackoverflow.com/questions/5731224/calling-javascript-function-from-codebehind
+
+https://stackoverflow.com/questions/22578853/how-to-center-buttons-in-twitter-bootstrap-3
+https://teamtreehouse.com/community/how-to-stop-javascript-window-reloading-when-each-time-button-is-on-a-page
+https://stackoverflow.com/questions/18150954/how-can-i-render-a-list-select-box-dropdown-with-bootstrap
+https://getbootstrap.com/docs/4.0/content/tables/
+https://stackoverflow.com/questions/1351966/is-there-a-pure-css-way-to-make-an-input-transparent
+https://stackoverflow.com/questions/376253/stretch-and-scale-css-background
+https://teamtreehouse.com/community/backgroundimage-opacity
+https://ubuntuforums.org/showthread.php?t=2120630
+https://stackoverflow.com/questions/22186921/how-to-access-a-directory-one-level-up-in-css
+https://www.w3schools.com/bootstrap/bootstrap_collapse.asp
+https://stackoverflow.com/questions/3276798/asp-net-dropdownlist-html-select-list-default-selection
+https://stackoverflow.com/questions/19233415/how-to-make-type-number-to-positive-numbers-only
+https://stackoverflow.com/questions/9743038/how-do-i-add-a-thousand-seperator-to-a-number-in-javascript?fbclid=IwAR2fJxSj-aQZU_EgDgLR2uXXo_nbBzRD4kqDvEj4yVewAaWqqdvSBDlKpfE
+https://stackoverflow.com/questions/1531093/how-do-i-get-the-current-date-in-javascript
+https://stackoverflow.com/questions/5645058/how-to-add-months-to-a-date-in-javascript
